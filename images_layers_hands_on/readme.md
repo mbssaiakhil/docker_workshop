@@ -23,7 +23,7 @@ docker image inspect saiakhil2012/nginx:with_vim
 ```
 
 <p align="center">
-<h3> Let us see the advantage of Layers of Images Practically </h3>
+<h2> Let us see the advantage of Layers of Images Practically </h2>
 </p>
 
 #### Run a container as shown below
@@ -82,4 +82,11 @@ exit
 ```bash
 docker image inspect saiakhil2012/nginx:with_vim_myfile
 docker image inspect saiakhil2012/nginx:with_vim
+```
+#### Check the history of image
+```bash
+docker image history saiakhil2012/nginx:with_vim
+docker image history saiakhil2012/nginx:with_vim_myfile
+
+Observe the comment which we added before
 ```
