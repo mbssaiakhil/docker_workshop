@@ -71,5 +71,6 @@ Hello World html is exposed
 Similar to the hello_wold_app, there are files for simple_app with all required elements [here](simple_app/)
 
 ```bash
-Try creating your own image and push to your repo and run a container using it and expose a port and check what is shows !!!
+Try creating your own image and push to your repo and run a container using it and expose a port 
+Check what is shows !!! :)
 ```
