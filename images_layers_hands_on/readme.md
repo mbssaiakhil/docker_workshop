@@ -1,8 +1,6 @@
-___
 <p align="center">
-<h1> Basics of images and layers </h1>
+<h3> Basics of images and layers </h1>
 </p>
-___
 
 #### Pulling basic nginx Image
 ```bash
@@ -23,11 +21,10 @@ docker pull saiakhil2012/nginx:with_vim
 ```bash
 docker image inspect saiakhil2012/nginx:with_vim
 ```
-___
+
 <p align="center">
-<h1> Let us see the advantage of Layers of Images Practically </h1>
+<h3> Let us see the advantage of Layers of Images Practically </h3>
 </p>
-___
 
 #### Run a container as shown below
 ```bash
