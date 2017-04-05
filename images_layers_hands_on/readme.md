@@ -59,7 +59,9 @@ docker images
 ```
 
 #### Remove other related containers and start a container with the new image
+```bash
 docker run -d --name nginx_with_vim_myfile saiakhil2012/nginx:with_vim_myfile
+```
 
 #### Get into the container
 ```bash
