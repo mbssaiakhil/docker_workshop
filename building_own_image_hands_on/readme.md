@@ -3,9 +3,9 @@
 </p>
 
 #### Create a Dockerfile
-```bash
-Use Hello World Dockerfile [here](hello_world_app/Dockerfile)
 
+Use Hello World Dockerfile [here](hello_world_app/Dockerfile)
+```bash
 Save it to your current directory
 ```
 
@@ -68,8 +68,8 @@ Hello World html is exposed
 ```
 
 #### Try It Out
-```bash
 Similar to the hello_wold_app, there are files for simple_app with all required elements [here](simple_app/)
 
+```bash
 Try creating your own image and push to your repo and run a container using it and expose a port and check what is shows !!!
 ```
