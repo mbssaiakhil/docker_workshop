@@ -1,5 +1,5 @@
 <p align="center">
-<h3> Basics of images and layers </h1>
+<h2> Basics of images and layers </h2>
 </p>
 
 #### Pulling basic nginx Image
