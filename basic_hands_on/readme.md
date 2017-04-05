@@ -1,31 +1,31 @@
-##### Docker Client Help
+#### Docker Client Help
 docker help
 
-##### Docker Client Specific Command Help
+#### Docker Client Specific Command Help
 docker version --help
 
-##### Version Information
+#### Version Information
 docker version
 
-##### System Level Info of Docker
+#### System Level Info of Docker
 docker info
 
-##### Search an Image
+#### Search an Image
 docker search nginx
 
-##### Running a container
+#### Running a container
 docker run -d --name basic_nginx nginx
 
-##### Get a list of docker conatiners
+#### Get a list of docker conatiners
 docker ps
 
-##### Get a list of docker images
+#### Get a list of docker images
 docker images
 
-##### Getting into the Conatiner
+#### Getting into the Conatiner
 docker exec -it 
 
-##### Basic Commands
+#### Basic Commands
 date
 
 whomai
@@ -37,16 +37,16 @@ vim
 
 (Oops... it says "bash: vim: command not found")
 
-##### Getting out of the container
+#### Getting out of the container
 exit
 
-##### Run an enhanced nginx
+#### Run an enhanced nginx
 docker run -d --name enhanced_nginx saiakhil2012/nginx:with_vim
 
-##### Getting into the Conatiner
+#### Getting into the Conatiner
 docker exec -it 
 
-##### Basic Commands
+#### Basic Commands
 date
 
 whomai
