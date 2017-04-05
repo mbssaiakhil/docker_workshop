@@ -1,5 +1,5 @@
 <p align="center">
-<h2> Basics of Dcokerfile </h2>
+<h2> Basics of Dockerfile </h2>
 </p>
 
 #### Create a Dockerfile
