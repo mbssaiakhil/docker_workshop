@@ -67,7 +67,7 @@ docker run -d -p 8091:80 --name my_container <username>/nginx:with_website_v0
 Hello World html is exposed
 ```
 
-#### Try It Out
+### Try It Out
 Similar to the hello_wold_app, there are files for simple_app with all required elements [here](simple_app/)
 
 ```bash
