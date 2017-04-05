@@ -1,6 +1,6 @@
 ___
 <p align="center">
-***Basics of images and layers***
+<h1> Basics of images and layers </h1>
 </p>
 ___
 
@@ -25,7 +25,7 @@ docker image inspect saiakhil2012/nginx:with_vim
 ```
 ___
 <p align="center">
-***Let us see the advantage of Layers of Images Practically***
+<h1> Let us see the advantage of Layers of Images Practically </h1>
 </p>
 ___
 
