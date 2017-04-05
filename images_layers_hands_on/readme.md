@@ -1,3 +1,9 @@
+___
+<p align="center">
+***Basics of images and layers***
+</p>
+___
+
 #### Pulling basic nginx Image
 ```bash
 docker pull saiakhil2012/nginx
@@ -18,7 +24,9 @@ docker pull saiakhil2012/nginx:with_vim
 docker image inspect saiakhil2012/nginx:with_vim
 ```
 ___
+<p align="center">
 ***Let us see the advantage of Layers of Images Practically***
+</p>
 ___
 
 #### Run a container as shown below
