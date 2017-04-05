@@ -3,4 +3,4 @@
 </p>
 
 #### Create a Dockerfile
-Hello World Docker File [here](building_own_image_hands_on/hello_world_app/Dockerfile)
+Hello World Docker File [here](hello_world_app/Dockerfile)
