@@ -4,7 +4,7 @@
 
 #### Run a wordpress container
 ```bash
-docker pull saiakhil2012/nginx
+docker run -d -p 8094:80 -e WORDPRESS_DB_PASSWORD=password -d --name wordpress saiakhil2012/wordpress
 ```
 
 #### Check the exposed port
