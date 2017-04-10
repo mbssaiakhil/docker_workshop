@@ -14,6 +14,8 @@ docker run -d -p 8094:80 -e WORDPRESS_DB_PASSWORD=password -d --name wordpress s
 Give Basic Information and Press "Install Wordpress" Button
 
 Wait!!! Something is not right!!! It says Database Connection Error
+Because wordpress is expecting for a database but it is not present. 
+So, Let us create a mysql container and try to provide it to wordpress container
 ```
 
 #### Remove the old containers
