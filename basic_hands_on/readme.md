@@ -40,10 +40,11 @@ docker ps
 #### Get a list of docker images
 ```bash
 docker images
+```
 
 #### Getting into the Conatiner
 ```bash
-docker exec -it
+docker exec -it basic_nginx /bin/bash
 ```
 
 #### Basic Commands
@@ -72,7 +73,7 @@ docker run -d --name enhanced_nginx saiakhil2012/nginx:with_vim
 
 #### Getting into the Conatiner
 ```bash
-docker exec -it
+docker exec -it enhanced_nginx /bin/bash
 ```
 
 #### Basic Commands
