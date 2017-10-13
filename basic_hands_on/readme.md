@@ -51,7 +51,7 @@ docker exec -it basic_nginx /bin/bash
 ```bash
 date
 
-whomai
+whoami
 
 ps -ef
 
@@ -80,7 +80,7 @@ docker exec -it enhanced_nginx /bin/bash
 ```bash
 date
 
-whomai
+whoami
 
 ps -ef
 
